@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">MyGo4Lunch</string>
+
+
+    // SIGNIN LAYOUT
+    <string name="logo_go_4_lunch" translatable="false" />
+    <string name="sign_in_second_title">Find a nice restaurant and invite your co-workers for lunch!</string>
+    <string name="facebook_login_button_text" translatable="false" />
+    <string name="email_login_button_text">sign in with Email</string>
+    <string name="google_login_button_text">sign in with Google</string>
+    <string name="twitter_login_button_text">sign in with Twitter</string>
+    <string name="navigation_drawer_open">open </string>
+    <string name="navigation_drawer_close">close </string>
+    <string name="facebook_application_id" translatable="false">1272208246491957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1272208246491957</string>
+    <string name="error_unknown_error" translatable="false" />
+    <string name="yes" translatable="false" />
+
+
+    --- LAYOUT ---
+
+    // WORKMATES ITEM LAYOUT
+    <string name="coworkers_picture" translatable="false" />
+    <string name="background_content_description" translatable="false" />
+    <string name="is_joining">is joining!</string>
+    <string name="is_eating">is eating</string>
+    <string name="has_not_decided_yet">has not decided yet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    --- MENU ---
+    // BOTTOM NAVIGATION MENU
+    <string name="map_button_title">Map</string>
+    <string name="list_button_title">List</string>
+    <string name="coworkers_button_title">Workmates</string>
+
+
+    // HEADER LAYOUT
+    <string name="header_drawer_picture" translatable="false" />
+
+    <string name="user_picture" translatable="false" />
+
+
+    // DRAWER MENU
+    <string name="lunch_button_title">YOUR LUNCH</string>
+    <string name="settings_button_title">SETTINGS</string>
+    <string name="log_out_button_title">LOG OUT</string>
+
+
+    // RESTAURANT DETAIL LAYOUT
+    <string name="restaurant_picture" translatable="false">restaurant picture</string>
+    <string name="call_button">CALL</string>
+    <string name="like_button">LIKE</string>
+    <string name="website_button">WEBSITE</string>
+    <string name="text_no_web_site">No Website</string>
+    <string name="text_no_phone_number">No phone number</string>
+    <string name="restaurant_favorite_button" translatable="false">Restaurant Favorite button</string>
+
+
+    //RESTAURANT LIST
+    <string name="restaurant_closed_today">Closed today. Open at</string>
+    <string name="restaurant_on">Open</string>
+    <string name="closed">Closed</string>
+
+    //ACTION BAR
+    <string name="hungry">I\'m Hungry!</string>>
+
+    // TOOLBAR SEARCH MENU
+    <string name="search_button_title">search</string>
+
+
+    //NOTIFICATION
+    <string name="alert_dialog_notifications_message" translatable="false" />
+    <string name="notificationChannel" translatable="false">notificationChannel</string>
+    <string name="notification_message">You are eating at %s with %s on %s</string>
+    <string name="message_notification_alone">You are eating at %s on %s</string>
+    <string name="title_notification">Your lunch today</string>
+    <string name="subtitle_notification">You have a lunch setup for today</string>
+    <string name="name_channel" translatable="false">Go4Lunch channel</string>
+    <string name="description_channel" translatable="false">Notification channel</string>
+    <string name="no" translatable="false" />
+
+
+
+    //Added
+
+
+    <string name="permission_rationale_location">This app needs location permission to function properly</string>
+
+</resources>
